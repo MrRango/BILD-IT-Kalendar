@@ -1,3 +1,9 @@
+/*
+ * klasa za kreiranje objekta godina
+ * koristi se pri ucitavanju podataka iz fajla "kalendar.txt"
+ * sadrzi podatke o tome kojim danom u sedmici mjesec pocinje (0 za ponedeljak, 1 za utorak,... 6 za nedelju)
+ */
+
 package kalendar;
 
 public class Godina {

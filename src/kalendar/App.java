@@ -1,4 +1,9 @@
- package kalendar;
+/*
+ * pocetna klasa sa main metodom
+ * iz nje se kreira novi kalendar
+ */
+
+package kalendar;
 
 import java.io.FileNotFoundException;
 
