@@ -25,7 +25,6 @@ public class Podsjetnik {
 		InOutPodsjetnik podsjetnik = new InOutPodsjetnik();
 		podsjetnik.ucitajPodsjetnik();
 		zapisi = podsjetnik.getPodsjetnici();
-		int k = 0;
 		//stampanje zaglavlja
 		System.out.println("\n\n***************************************************\n" 
 			              + "*                   PODSJETNIK                    *\n"
